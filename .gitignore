@@ -2,6 +2,9 @@
 .vscode/
 etc/
 
+# Environment Variables
+.env
+
 # Dependencies
 Lib/
 Include/
@@ -13,3 +16,4 @@ share/
 src/
 pyvenv.cfg
 MANIFEST.in
+CMakeLists.txt

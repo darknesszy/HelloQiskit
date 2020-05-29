@@ -1,0 +1,15 @@
+# IDE
+.vscode/
+etc/
+
+# Dependencies
+Lib/
+Include/
+Scripts/
+cmake/
+contrib/
+qiskit/
+share/
+src/
+pyvenv.cfg
+MANIFEST.in
